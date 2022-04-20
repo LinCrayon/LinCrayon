@@ -19,12 +19,3 @@
 
 
 
-
-<div align="center"><img src="https://cdn.jsdelivr.net/gh/Tame-complexity/Tame-complexity/assets/github-contribution-grid-snake.svg" ></div>
-
-
-
-
-
-
-
