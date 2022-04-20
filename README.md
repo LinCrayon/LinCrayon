@@ -15,9 +15,8 @@
 )](https://github.com/Tame-complexity/Android-Studio-Graduation-Project)
 
 
+![](https://raw.githubusercontent.com/Tame-complexity/Tame-complexity/main/assets/github-contribution-grid-snake.svg)
 
-
-![](https://raw.githubusercontent.com/76675194/76675194/main/assets/github-contribution-grid-snake.svg)
 
 
 
