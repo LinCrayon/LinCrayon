@@ -25,7 +25,7 @@
 
 - 🔭 I’m currently working on **Full Stack**
 
-- 🌱 I’m currently learning **SpringBoot**
+- 🌱 I’m currently learning **DevOps**
 
 - 📝 I regularly write articles on [https://www.cnblogs.com/linshengqian/](https://www.cnblogs.com/linshengqian/)
 
