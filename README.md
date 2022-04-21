@@ -7,7 +7,7 @@
 ![](https://raw.githubusercontent.com/Tame-complexity/Tame-complexity/main/assets/github-contribution-grid-snake.svg)
  
 <table><tr>
- <td width="60%">
+ <td width="50%">
 <a href="https://github.com/Tame-complexity" >
   <img  src="https://github-readme-stats.vercel.app/api?username=Tame-complexity&show_icons=true&theme=tokyonight&icon_color=#924cf5" />
 </a>
