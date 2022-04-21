@@ -4,7 +4,7 @@
   </a>
 </h1>
 <h1 align="center">Hi 👋, I'm linshengqian</h1>
-<h2 align="center">I'm from China。Talk less and do more！</h2>
+<h2 align="center">I'm from China。Talk less and do more！</h2>  
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
@@ -48,15 +48,12 @@
  ## ℹ️  Github Info
 
 - ⚡ Github Stats
-<a href="https://github.com/Tame-complexity" >
-  <img  src="https://github-readme-stats.vercel.app/api?username=Tame-complexity&show_icons=true&theme=tokyonight&icon_color=#924cf5" />
-</a>
+ <p align="center"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=Tame-complexity&hide_border=true&count_private=true&show_icons=true&theme=tokyonight" alt="Tame-complexity" align = "center"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=Tame-complexity&show_icons=true&locale=en&layout=compact&hide_border=true&theme=tokyonight" alt="Tame-complexity" align = "center"/></p>
 	
 - 🔥Github Streaks	
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tame-complexity&l" alt="tame-complexity" />
-<a href="https://github.com/Tame-complexity">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tame-complexity&langs_count=8&theme=tokyonight&layout=compact" />
-</a>
+
 
 
 - 🏆 Github Achievements
@@ -66,15 +63,6 @@
  <div align="center">
     <img src="https://activity-graph.herokuapp.com/graph?username=Tame-complexity&theme=minimal" />
 </div>
- 
- 
- <p align="center"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=Tame-complexity&hide_border=true&count_private=true&show_icons=true&theme=radical" alt="Tame-complexity" align = "center"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=Tame-complexity&show_icons=true&locale=en&layout=compact&hide_border=true&theme=radical" alt="Tame-complexity" align = "center"/></p>
- 
- 
- 
- 
- 
  
  
  
