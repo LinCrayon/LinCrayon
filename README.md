@@ -34,7 +34,7 @@
 </a>
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tame-complexity&" alt="tame-complexity" />
 <a href="https://github.com/Tame-complexity">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tame-complexity&langs_count=8&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tame-complexity&langs_count=8&theme=tokyonight&layout=compact" />
 </a>
 
 
