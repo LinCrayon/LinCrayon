@@ -50,6 +50,9 @@
 - ⚡ Github Stats
  <p align="center"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=Tame-complexity&hide_border=true&count_private=true&show_icons=true&theme=tokyonight" alt="Tame-complexity" align = "center"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=Tame-complexity&show_icons=true&locale=en&layout=compact&hide_border=true&theme=tokyonight" alt="Tame-complexity" align = "center"/></p>
+
+  <summary><b>🔎 Github Profile Details</b></summary>
+  <p align="center"><img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tame-complexity&theme=tokyonight" alt="Tame-complexity" align = "center"/></p>
 	
 - 🔥Github Streaks	
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tame-complexity&l" alt="tame-complexity" />
