@@ -1,6 +1,6 @@
 <h1 align="center"> 
  <a href="https://sunguoqi.com/">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=console.log(%22Hello%2C%20World!%22);linshengqian&center=true&size=27">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=console.log(%22Hello%2C%20World!%22);linshengqian&center=true&size=28">
   </a>
 </h1>
 <h1 align="center">Hi 👋, I'm linshengqian</h1>
@@ -48,6 +48,7 @@
  ## ℹ️  Github Info
 
   <summary><b>🔎 Github Profile Details</b></summary>
+	
   <p align="center"><img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tame-complexity&theme=tokyonight" alt="Tame-complexity" align = "center"/></p>	
 		
 - ⚡ Github Stats
@@ -74,20 +75,11 @@
   </tr>
 </table>
  
- 
- 
- <!-- Wakatime Graph-->
+ ![202110311924844](https://user-images.githubusercontent.com/76675194/164457891-5da5cda0-5f43-4574-bf23-4326ec1ed914.png)
 
-<table>
-  <tr>
-    <td>
-      <img src="https://wakatime.com/share/@42d0678c-368b-448b-9a77-5d21c5b55352/d07b5f65-d3e1-4896-897c-1695c560a7dc.svg" width="500"/>
-    </td>
-    <td>
-      <img src="https://wakatime.com/share/@42d0678c-368b-448b-9a77-5d21c5b55352/39a6f115-6058-44ce-95da-c3b2cbc9e831.svg" width="500"/>
-    </td>
-  </tr>
-</table>
+ 
+
+ 
  
  
  
