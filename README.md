@@ -57,6 +57,10 @@
 	
 - 🔥Github Streaks	
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Tame-complexity&theme=tokyonight&hide_border=true&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397" alt="Tame-complexity" /></p>
+ 
+
+ 
+<div align="center"><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"></div>
 
 - 🏆 Github Achievements
 <div align="center"><img  src="https://github-profile-trophy.vercel.app/?username=Tame-complexity&theme=tokyonight&row=1&column=6&no-frame=true&no-bg=true" /></div>
@@ -87,7 +91,7 @@
  
  
  
- ---
+***
  
  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Tame-complexity&repo=Android-Studio-Graduation-Project
 )](https://github.com/Tame-complexity/Android-Studio-Graduation-Project)
