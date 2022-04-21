@@ -56,18 +56,34 @@
 
 	
 - 🔥Github Streaks	
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tame-complexity&l" alt="tame-complexity" />
-
-
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Tame-complexity&theme=tokyonight&hide_border=true&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397" alt="Tame-complexity" /></p>
 
 - 🏆 Github Achievements
 <p align="left"> <a href="https://github.com/Tame-complexity"><img src="https://github-profile-trophy.vercel.app/?username=tame-complexity" alt="tame-complexity" /></a> </p>
 
 - 📊 Github Contribution Graph
- <div align="center">
-    <img src="https://activity-graph.herokuapp.com/graph?username=Tame-complexity&theme=minimal" />
-</div>
+<table align="center">
+  <tr>
+    <td colspan="2">
+      <img src="https://activity-graph.herokuapp.com/graph?username=Tame-complexity&theme=xcode&bg_color=FF000000&hide_border=true" />
+    </td>
+  </tr>
+</table>
  
+ 
+ 
+ <!-- Wakatime Graph-->
+
+<table>
+  <tr>
+    <td>
+      <img src="https://wakatime.com/share/@42d0678c-368b-448b-9a77-5d21c5b55352/d07b5f65-d3e1-4896-897c-1695c560a7dc.svg" width="500"/>
+    </td>
+    <td>
+      <img src="https://wakatime.com/share/@42d0678c-368b-448b-9a77-5d21c5b55352/39a6f115-6058-44ce-95da-c3b2cbc9e831.svg" width="500"/>
+    </td>
+  </tr>
+</table>
  
  
  
