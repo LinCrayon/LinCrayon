@@ -39,7 +39,7 @@
 
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tame-complexity" alt="tame-complexity" /></a> </p>
+<p align="left"> <a href="https://github.com/Tame-complexity"><img src="https://github-profile-trophy.vercel.app/?username=tame-complexity" alt="tame-complexity" /></a> </p>
  
  
  
