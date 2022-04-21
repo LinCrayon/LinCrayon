@@ -1,16 +1,17 @@
-<figure class="half">
 <h1 align="center"> 
  <a href="https://sunguoqi.com/">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=console.log(%22Hello%2C%20World!%22);Hello,World!&center=true&size=27">
   </a>
 </h1>
+ 
+<center>
 <a href="https://github.com/Tame-complexity">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=Tame-complexity&show_icons=true&theme=onedark&icon_color=#924cf5" />
 </a>
 <a href="https://github.com/Tame-complexity">
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tame-complexity&langs_count=8&theme=onedark&layout=compact" />
 </a>
-</figure>
+</center>
 
 
 
