@@ -23,7 +23,7 @@
  ![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)
  
 
-- 🔭 I’m currently working on **spring**
+- 🔭 I’m currently working on **Full Stack**
 
 - 🌱 I’m currently learning **SpringBoot**
 
