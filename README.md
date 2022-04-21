@@ -3,13 +3,9 @@
     <img src="https://readme-typing-svg.herokuapp.com/?lines=console.log(%22Hello%2C%20World!%22);linshengqian&center=true&size=27">
   </a>
 </h1>
- ---
- 
- 
- 
- 
- <h1 align="center">Hi 👋, I'm linshengqian</h1>
-<h3 align="center">I come from China。Talk less and do more！</h3>
+<h1 align="center">Hi 👋, I'm linshengqian</h1>
+<h2 align="center">I'm from China。Talk less and do more！</h2>
+
 - 🔭 I’m currently working on **spring**
 
 - 🌱 I’m currently learning **SpringBoot**
