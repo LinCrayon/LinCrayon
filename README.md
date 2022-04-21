@@ -22,6 +22,7 @@
  ![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)
  ![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)
  
+ ## 🧑 About me:
 
 - 🔭 I’m currently working on **Full Stack**
 
@@ -44,21 +45,27 @@
  
 ![](https://raw.githubusercontent.com/Tame-complexity/Tame-complexity/main/assets/github-contribution-grid-snake.svg)
  
- 
+ ## ℹ️  Github Info
 
+- ⚡ Github Stats
 <a href="https://github.com/Tame-complexity" >
   <img  src="https://github-readme-stats.vercel.app/api?username=Tame-complexity&show_icons=true&theme=tokyonight&icon_color=#924cf5" />
 </a>
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tame-complexity&" alt="tame-complexity" />
+	
+- 🔥Github Streaks	
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tame-complexity&l" alt="tame-complexity" />
 <a href="https://github.com/Tame-complexity">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tame-complexity&langs_count=8&theme=tokyonight&layout=compact" />
 </a>
 
 
-
+- 🏆 Github Achievements
 <p align="left"> <a href="https://github.com/Tame-complexity"><img src="https://github-profile-trophy.vercel.app/?username=tame-complexity" alt="tame-complexity" /></a> </p>
- 
- 
+
+- 📊 Github Contribution Graph
+ <div align="center">
+    <img src="https://activity-graph.herokuapp.com/graph?username=Tame-complexity&theme=minimal" />
+</div>
  
  
  
