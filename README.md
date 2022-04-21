@@ -27,12 +27,13 @@
  
 ![](https://raw.githubusercontent.com/Tame-complexity/Tame-complexity/main/assets/github-contribution-grid-snake.svg)
  
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tame-complexity&" alt="tame-complexity" /></p>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tame-complexity&" alt="tame-complexity" />
  
 <p>
 <a href="https://github.com/Tame-complexity" >
   <img  src="https://github-readme-stats.vercel.app/api?username=Tame-complexity&show_icons=true&theme=tokyonight&icon_color=#924cf5" />
 </a>
+ <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tame-complexity&" alt="tame-complexity" />
 <a href="https://github.com/Tame-complexity">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tame-complexity&langs_count=8&theme=tokyonight&layout=compact" />
 </a>
