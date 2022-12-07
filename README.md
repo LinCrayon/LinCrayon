@@ -66,14 +66,7 @@
 - 🏆 Github Achievements
 <div align="center"><img  src="https://github-profile-trophy.vercel.app/?username=Tame-complexity&theme=tokyonight&row=1&column=6&no-frame=true&no-bg=true" /></div>
 
-- 📊 Github Contribution Graph
-<!-- <table align="center">
-  <tr>
-    <td colspan="2">
-      <img src="https://activity-graph.herokuapp.com/graph?username=Tame-complexity&theme=xcode&bg_color=FF000000&hide_border=true" />
-    </td>
-  </tr>
-</table> -->
+
  
  ![202110311924844](https://user-images.githubusercontent.com/76675194/164457891-5da5cda0-5f43-4574-bf23-4326ec1ed914.png)
 
@@ -84,14 +77,16 @@
  
  
 ***
-<table align="center">
-  <tr>
-	  <td colspan="2">
+<div style="display: flex; flex-direction: row;">
+ <img class="img" src="https://github-readme-stats.vercel.app/api/pin/?username=Tame-complexity&repo=Android-Studio-Graduation-Project" />
+ <img class="img" src="https://github-readme-stats.vercel.app/api/pin/?username=Tame-complexity&repo=Android-Studio-Graduation-Project" />
+</div>
+
+
+
  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Tame-complexity&repo=Android-Studio-Graduation-Project
 )](https://github.com/Tame-complexity/Android-Studio-Graduation-Project)
 
  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Tame-complexity&repo=Android-Studio-Graduation-Project
 )](https://github.com/Tame-complexity/Android-Studio-Graduation-Project)
-	  </td>
-</tr>
-</table>
+
