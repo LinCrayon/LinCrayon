@@ -88,4 +88,5 @@
  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Tame-complexity&repo=Android-Studio-Graduation-Project
 )](https://github.com/Tame-complexity/Android-Studio-Graduation-Project)
 
-
+ [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Tame-complexity&repo=Android-Studio-Graduation-Project
+)](https://github.com/Tame-complexity/Android-Studio-Graduation-Project)
