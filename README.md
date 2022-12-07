@@ -78,7 +78,9 @@
  
 ***
 <div style="display: flex; flex-direction: row;">
+	<a href="https://github.com/Tame-complexity/Android-Studio-Graduation-Project">
  <img class="img" src="https://github-readme-stats.vercel.app/api/pin/?username=Tame-complexity&repo=Android-Studio-Graduation-Project" />
+	</a>
  <img class="img" src="https://github-readme-stats.vercel.app/api/pin/?username=Tame-complexity&repo=Android-Studio-Graduation-Project" />
 </div>
 
