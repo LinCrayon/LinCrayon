@@ -22,7 +22,7 @@
  ![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)
  ![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)
  
- ## 🧑 About me:
+ ## 🧑 About me:           <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
 - 🔭 I’m currently working on **Full Stack**
 
@@ -63,9 +63,9 @@
  
 <div align="center"><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"></div>
 
-- 🏆 Github Achievements
+<!-- - 🏆 Github Achievements
 <div align="center"><img  src="https://github-profile-trophy.vercel.app/?username=Tame-complexity&theme=tokyonight&row=1&column=6&no-frame=true&no-bg=true" /></div>
-
+ -->
 
  
  ![202110311924844](https://user-images.githubusercontent.com/76675194/164457891-5da5cda0-5f43-4574-bf23-4326ec1ed914.png)
@@ -73,6 +73,7 @@
  
 
 ***
+## 👀 Active Repo
 <div style="display: flex; flex-direction: row;">
 	<a href="https://github.com/Tame-complexity/Android-Studio-Graduation-Project">
  <img  src="https://github-readme-stats.vercel.app/api/pin/?username=Tame-complexity&repo=Android-Studio-Graduation-Project" />
