@@ -75,10 +75,10 @@
 ***
 ## 👀 Active Repo
 <div style="display: flex; flex-direction: row;">
-	<a href="https://github.com/Tame-complexity/Android-Studio-Graduation-Project">
+	<a href="https://github.com/LinCrayon/Android-Studio-Graduation-Project">
  <img  src="https://github-readme-stats.vercel.app/api/pin/?username=Tame-complexity&repo=Android-Studio-Graduation-Project" />
 	</a>
-	<a href="https://github.com/Tame-complexity/hm-dianping">
+	<a href="https://github.com/LinCrayon/hm-dianping">
  <img  src="https://github-readme-stats.vercel.app/api/pin/?username=Tame-complexity&repo=hm-dianping" />
 	</a>
 </div>
