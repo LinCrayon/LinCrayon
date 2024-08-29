@@ -59,22 +59,3 @@
 - 🔥Github Streaks	
 
 <div align="center"><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"></div>
-
-***
-## 👀 Active Repo
-<div style="display: flex; flex-direction: row;">
-	<a href="https://github.com/LinCrayon/Android-Studio-Graduation-Project">
- <img  src="https://github-readme-stats.vercel.app/api/pin/?username=LinCrayon&repo=Android-Studio-Graduation-Project" />
-	</a>
-	<a href="https://github.com/LinCrayon/hm-dianping">
- <img  src="https://github-readme-stats.vercel.app/api/pin/?username=LinCrayon&repo=hm-dianping" />
-	</a>
-</div>
-
-<!-- 
- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LinCrayon&repo=Android-Studio-Graduation-Project
-)](https://github.com/LinCrayon/Android-Studio-Graduation-Project)
-
- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LinCrayon&repo=Android-Studio-Graduation-Project
-)](https://github.com/LinCrayon/Android-Studio-Graduation-Project) -->
-
